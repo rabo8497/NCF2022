@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+
+nle_data/
+
+runs/
+
+__temp__/

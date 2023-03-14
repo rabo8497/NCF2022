@@ -1,0 +1,20 @@
+
+device = "cuda"
+
+seed = 42
+n_envs = 8
+horizon = 2048
+mini_batch_size = 128
+lr = 0.0005
+weight_decay = 0.0
+gamma = 0.99
+lam = 0.99
+max_grad = 10.0
+value_coef = 0.5
+eps_eta = 1.0
+eps_alpha = 0.01
+
+eval = true
+max_frames = -1
+
+n_tasks = 1
